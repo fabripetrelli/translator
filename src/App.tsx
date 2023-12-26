@@ -1,4 +1,6 @@
-function App() {
+import React, { type FC } from 'react'
+
+const App: FC = () => {
   return <></>
 }
 
